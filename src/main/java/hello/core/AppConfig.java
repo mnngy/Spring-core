@@ -39,7 +39,6 @@ public class AppConfig {
 //        return null;
     }
 
-
     @Bean
     public DiscountPolicy discountPolicy() {
 //        return new FixDiscountPolicy();
