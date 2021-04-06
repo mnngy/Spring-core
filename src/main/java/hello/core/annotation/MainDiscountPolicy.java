@@ -9,7 +9,7 @@ import java.lang.annotation.*;
 @Inherited
 @Documented
 @Qualifier("mainDiscountPolicy")
-public @interface MainDiscounyPolicy {
+public @interface MainDiscountPolicy {
 
 
 }
